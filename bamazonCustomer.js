@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
 	host: 'localhost',
     port: 3306,
     user: 'root',
-    password: 'esad',
+    password: '*****',
     database: 'Bamazon_DB'
 }); 
 //Connect to the mysql server and sql database
