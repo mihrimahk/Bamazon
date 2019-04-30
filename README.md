@@ -28,6 +28,10 @@ However, if the store does have enough of the product, it fulfill the customer's
     *This means updating the SQL database to reflect the remaining quantity.
     *Once the update goes through, show the customer the total cost of their purchase.
 
+#OutPut Bamazon Customer
+-----------------------
+
+[![asciicast](https://asciinema.org/a/5lVIKOQBKIT2D77aoLvO1durf.svg)](https://asciinema.org/a/5lVIKOQBKIT2D77aoLvO1durf)
     
 
  ** Bamazon Manager
@@ -45,6 +49,11 @@ First this app list a set of menu options:
 **If a manager selects Add to Inventory, this app  displays a prompt that will let the manager "add more" of any item currently in the store.
 **If a manager selects Add New Product, it allow the manager to add a completely new product to the store.
 
+
+#OutPut Bamazon Manager
+-----------------------
+
+[![asciicast](https://asciinema.org/a/3ugIErtVQ6bVmYlm1NcHA6tQd.svg)](https://asciinema.org/a/3ugIErtVQ6bVmYlm1NcHA6tQd)
 
 
 
